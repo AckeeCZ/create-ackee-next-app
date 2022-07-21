@@ -6,7 +6,7 @@ It's just a "proxy binary" that runs this command
 $ yarn create next-app --example=https://github.com/AckeeCZ/next-app-template
 ```
 
-but with much easire and memorable syntax 👇
+but with much easier and memorable syntax 👇
 
 ## Usage
 
