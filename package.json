@@ -1,6 +1,6 @@
 {
   "name": "create-ackee-next-app",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Simplified bootstrapping of an app with Ackee Next.js template",
   "bin": "index.js",
   "main": "index.js",
