@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { spawn } = require("child_process");
 
 const TEMPLATE_URL = `https://github.com/AckeeCZ/next-app-template`;
