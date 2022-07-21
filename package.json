@@ -1,0 +1,14 @@
+{
+  "name": "create-ackee-next-app",
+  "version": "0.1.0",
+  "description": "Simplified bootstrapping of an app with Ackee Next.js template",
+  "bin": "index.js",
+  "main": "index.js",
+  "repository": "https://github.com/AckeeCZ/create-ackee-next-app",
+  "author": {
+    "name": "Lukáš Horák",
+    "email": "lukas.horak@ackee.cz"
+  },
+  "license": "MIT",
+  "private": false
+}
