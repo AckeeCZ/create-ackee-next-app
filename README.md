@@ -20,3 +20,7 @@ It's just a "proxy binary" that runs this command:
 $ yarn create next-app --example=https://github.com/AckeeCZ/next-app-template
 ```
 
+### Branch specific
+```sh
+yarn create next-app --example=https://github.com/AckeeCZ/next-app-template/tree/{branch} --example-path=template
+```
