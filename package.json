@@ -10,5 +10,8 @@
     "email": "lukas.horak@ackee.cz"
   },
   "license": "MIT",
-  "private": false
+  "private": false,
+  "engines": {
+     "node": "20"
+  }
 }
