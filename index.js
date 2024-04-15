@@ -1,18 +1,12 @@
 #!/usr/bin/env node
 
-const { spawn } = require("child_process");
+import { execSync } from "child_process";
 
 const TEMPLATE_URL = `https://github.com/AckeeCZ/next-app-template`;
 const TEMPLATE_PATH = "template";
 
-spawn(
-  "yarn",
-  [
-    "create",
-    "next-app",
-    `--example=${TEMPLATE_URL}`,
-    `--example-path=${TEMPLATE_PATH}`,
-  ],
+execSync(
+  `yarn dlx create-next-app --example=${TEMPLATE_URL} --example-path=${TEMPLATE_PATH}`,
   {
     stdio: "inherit",
   }
