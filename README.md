@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. `corepack enable`
+1. `corepack enable` and `corepack install`
 2. `yarn dlx create-ackee-next-app`
 
 ## Common issues
